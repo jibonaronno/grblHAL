@@ -1,4 +1,4 @@
-19813268478793580
+19816253919584837
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -361,8 +361,8 @@ YAAJ_BluePill_SWD_1
 Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
 module BlluePill Blue Pill header SWD breakout
 0
-44
-44
+40
+40
 Blackpills
 YAAJ_BluePill_SWD_2
 Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
@@ -49398,6 +49398,20 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DC_DC_LM2596_small
+DC_DC_LM2596_Enable
+
+
+0
+5
+5
+DC_DC_LM2596_small
+DC_DC_LM2596_small
+
+DC_DC_LM2596
+0
+4
+4
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
