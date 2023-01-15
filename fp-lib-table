@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Blackpills")(type "KiCad")(uri "${KIPRJMOD}/Footprints")(options "")(descr ""))
+  (lib (name "TMC2208_SILENTSTEPSTICK")(type "KiCad")(uri "${KIPRJMOD}/TMC2208_SILENTSTEPSTICK")(options "")(descr ""))
+  (lib (name "DC_DC_LM2596_small")(type "KiCad")(uri "${KIPRJMOD}/DC_DC_LM2596_small.pretty")(options "")(descr ""))
+)
