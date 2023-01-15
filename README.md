@@ -7,6 +7,6 @@ Schematic and layout are completed. Screw Terminal Connectors and optos are alig
 <img alt="Image Not Found" src="grblblackpill.jpg"><br>
 
 ### Our Kicad design below.<br/>
-
+<img alt="Image Not Found." width=50% src="png03.png"><br>
 <img alt="Image Not Found." width=50% src="png01.png"><br>
 <img alt="Image Not Found." width=50% src="png02.png"><br>
